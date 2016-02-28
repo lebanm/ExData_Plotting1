@@ -28,12 +28,10 @@ Your task is to reconstruct the following plots below, all of which were constru
 
 **Solutions for the above:**
 
-1. Plots can be found in the [plots](https://github.com/lebanm/ExData_Plotting1/plots) directory of this repository.  All plots are PNG files per specification.
+1. Plots can be found in the ./plots/ directory of this repository.  All plots are PNG files per specification.
 
-2. The R code to create each of the plots can be found in the [scripts](https://github.com/lebanm/ExData_Plotting1/scripts) directory of this repository.
+2. The R code to create each of the plots can be found in the ./scripts/  directory of this repository.
 
-3. In addition to code generating each plot, there is a script to generate the usable data set in the [scripts](https://github.com/lebanm/ExData_Plotting1/scripts) directory.
 
-4. In addition data.table package should be installed --install.packages("data.table") and
-   install.packages("lubridate", dependencies = TRUE)
+> In addition data.table package should be installed --install.packages("data.table") and install.packages("lubridate", dependencies = TRUE)
    
