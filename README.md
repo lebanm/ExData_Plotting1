@@ -3,7 +3,7 @@
 # lebanm 2016-02-28 
 
 In this repo you can find results for the 1st course project for the Exploratory Data Analysis class for the Data Science Specialization.  
-The following section comes from the forked original [readme.md renamed to assignment_readme.md](https://github.com/lebanm/ExData_Plotting1/assignment_readme.md) file.  
+The following section comes from the forked original readme.md renamed to assignment_readme.md file.  
 
 The result and solutions are found below following the quoted section.
 
